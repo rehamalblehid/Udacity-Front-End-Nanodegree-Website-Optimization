@@ -1,7 +1,7 @@
 # Udacity Front-End Web Developer Nanodegree Program - Project: Website Optimization  
 
 The goal was to optimize a given website so that each page reaches a page speed of at least 90 measured with Page Speed Insights.
-
+## [Live Demo Here](https://rehamalblehid.github.io/Udacity-Front-End-Nanodegree-Website-Optimization/)
 #### Part 1: Optimize PageSpeed Insights score for index.html
 To load the portfolio website open a browser and navigate to the index.html in project directory.
 
