@@ -1,7 +1,6 @@
 # Udacity Front-End Web Developer Nanodegree Program - Project: Website Optimization  
 
 The goal was to optimize a given website so that each page reaches a page speed of at least 90 measured with Page Speed Insights.
-## [Live Demo Here](https://rehamalblehid.github.io/Udacity-Front-End-Nanodegree-Website-Optimization/)
 #### Part 1: Optimize PageSpeed Insights score for index.html
 To load the portfolio website open a browser and navigate to the index.html in project directory.
 
@@ -19,6 +18,9 @@ To load the pizza website open a browser and navigate to views/pizza.html in you
 - In updatePositions function moved the calculation in scrollTop out of the loop so it gets called once, when the function called.
 - In changePizzaSizes function moved dx and newwidth out of the loop so it gets called once, when the function called.
 - Reduced the number of pizzas from 200 to 20 in document.addEventListener('DOMContentLoaded', function();.
+
+## [Live Demo Here](https://rehamalblehid.github.io/Udacity-Front-End-Nanodegree-Website-Optimization/)
+
 
 
 ## MORE INFORMATION ABOUT WEBSITE PERFORMANCE
